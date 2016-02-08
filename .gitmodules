@@ -1,0 +1,3 @@
+[submodule "compilers/slang_extended"]
+	path = compilers/slang_extended
+	url = https://github.com/dc-mak/slang_extended
